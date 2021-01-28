@@ -19,7 +19,7 @@ Program pemecah soal Cryptarithmetic menggunakan algoritma Brute Force.
       CERITANYA\
           SOAL2+\
      -----------\
-     HASILNYKRG\
+     HASILNYKRG
 
     \* Tidak ada tanda apa-apa di awal baris. Dan tiap soal dipisahkan satu baris kosong.
 3. Program akan berjalan dan memunculkan hasilnya.
