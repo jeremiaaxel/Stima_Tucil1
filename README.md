@@ -10,12 +10,12 @@ Program pemecah soal Cryptarithmetic menggunakan algoritma Brute Force.
 1. Program dijalankan melalui terminal dengan menjalankan ```python tucil1_stima.py``` untuk Windows, OS lain menyesuaikan.
 2. Kemudian akan muncul prompt untuk memasukan nama file, masukan nama file berisi soal cryptarithmetic.
     - File input berformat ```.txt```
-    - Satu file dapat menerima banyak soal sekaligus dengan format :
+    - Satu file dapat menerima banyak soal sekaligus dengan format :\
       OPERAND1\
       OPERAND2+\
       ----------\
      RESULTNYA\
-     
+     \
       CERITANYA\
           SOAL2+\
      -----------\
