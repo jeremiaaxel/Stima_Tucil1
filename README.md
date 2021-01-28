@@ -11,15 +11,15 @@ Program pemecah soal Cryptarithmetic menggunakan algoritma Brute Force.
 2. Kemudian akan muncul prompt untuk memasukan nama file, masukan nama file berisi soal cryptarithmetic.
     - File input berformat ```.txt```
     - Satu file dapat menerima banyak soal sekaligus dengan format :
-    >  OPERAND1
-    >  OPERAND2+
-    > ----------
-    > RESULTNYA
-    > 
-    >  CERITANYA
-    >      SOAL2+
-    > -----------
-    > HASILNYKRG
+      OPERAND1\
+      OPERAND2+\
+      ----------\
+     RESULTNYA\
+     
+      CERITANYA\
+          SOAL2+\
+     -----------\
+     HASILNYKRG\
 
     \* Tidak ada tanda apa-apa di awal baris. Dan tiap soal dipisahkan satu baris kosong.
 3. Program akan berjalan dan memunculkan hasilnya.
